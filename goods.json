@@ -1,4 +1,5 @@
 {
+    "posts": [
     "1234": {
         "name": "Яблоки",
         "cost": 44.2,
@@ -27,4 +28,5 @@
         "order": 8,
         "img": "Watermelon.png",
     }
+        ]
 }
